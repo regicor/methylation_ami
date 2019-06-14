@@ -1,2 +1,3 @@
 # methylation_ami
-Information about DNA methylation and CVD analyses
+Recipe of the Docker image used for the DNA methylation and CVD analyses
+
